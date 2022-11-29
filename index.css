@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    color: red;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+}
+.header-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: deeppink solid 1px;
+    margin: 0 auto;
+}
